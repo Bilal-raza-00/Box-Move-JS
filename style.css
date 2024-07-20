@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#react {
+    display: flex;
+    height: 270px;
+    width: 218px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    justify-content: center;
+    background-color: red;
+    transform: translate(-50%,-50%);
+}
